@@ -1,0 +1,10 @@
+C:\Users\thoma\source\repos\SurfaceDesigner\SurfaceDesigner\bin\Debug\SurfaceDesigner.exe.config
+C:\Users\thoma\source\repos\SurfaceDesigner\SurfaceDesigner\bin\Debug\SurfaceDesigner.exe
+C:\Users\thoma\source\repos\SurfaceDesigner\SurfaceDesigner\bin\Debug\SurfaceDesigner.pdb
+C:\Users\thoma\source\repos\SurfaceDesigner\SurfaceDesigner\obj\Debug\SurfaceDesigner.csprojAssemblyReference.cache
+C:\Users\thoma\source\repos\SurfaceDesigner\SurfaceDesigner\obj\Debug\SurfaceDesigner.DesignerForm.resources
+C:\Users\thoma\source\repos\SurfaceDesigner\SurfaceDesigner\obj\Debug\SurfaceDesigner.Properties.Resources.resources
+C:\Users\thoma\source\repos\SurfaceDesigner\SurfaceDesigner\obj\Debug\SurfaceDesigner.csproj.GenerateResource.cache
+C:\Users\thoma\source\repos\SurfaceDesigner\SurfaceDesigner\obj\Debug\SurfaceDesigner.csproj.CoreCompileInputs.cache
+C:\Users\thoma\source\repos\SurfaceDesigner\SurfaceDesigner\obj\Debug\SurfaceDesigner.exe
+C:\Users\thoma\source\repos\SurfaceDesigner\SurfaceDesigner\obj\Debug\SurfaceDesigner.pdb
